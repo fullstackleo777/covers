@@ -1,7 +1,5 @@
 # AI Prompts for Art Directors
 
----
-
 ## 🎨 MASTER TEMPLATE – Art Director to AI Designer
 
 > Ideal for general use across styles and media.
