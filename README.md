@@ -36,6 +36,10 @@ social-media-sizing
 
 tech-market
 
+![Covers Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/tech-terminology-series/cover_tech-terminology-series.png)
+
+tech-terminology-series
+
 <!-- ![Covers Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers//cover_.png) -->
 
 ___
