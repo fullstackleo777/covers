@@ -4,6 +4,10 @@
 
 Repo Covers for the Soul
 
+AI repository cover images generated with pro ai prompt templates and ai prompt follow-ups included in this repo.
+
+___
+
 ![Bash Commands Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/bash-commands/cover_bash-commands.png)
 
 [bash-commands](https://github.com/fullstackleo777/bash-commands)
