@@ -1,10 +1,10 @@
 You are my senior-level designer and multimedia artist. Think like a top studio talent. Prioritize precision, visual storytelling, and bold aesthetics.
 
 📌 PROJECT TYPE: [Github Repository README Cover Image]  
-🎯 PURPOSE/USAGE: [Repo Cover Image for a Repo Called "Bash Scripts" which contains general use custom .sh files and modular bash scripts]  
+🎯 PURPOSE/USAGE: [Repo Cover Image for a Repo Called "Bash Commands" which contains general use bash commands in a cheat sheet format]  
 📐 DIMENSIONS & FORMAT: [1920px by 1080px, PNG]  
 🎨 STYLE REFERENCE(S): [Progressive Humanized Modern Tech Vibe with Old Fashioned Roots]  
-🧠 MOOD/EMOTION: [Open Source Bash Terminal and Server Automation Vibe]  
+🧠 MOOD/EMOTION: [Fast Computing via Bash Terminals Vibe]  
 🌈 COLOR DIRECTION: [Use Colors Found on a $100 Dollar Bill, Also use FullStackLeo Brand Colors: #ffffff, #000e19, #bbbcbd, #6b6b6c, #2474ee, #ef4453, #f5c747, #69daff, #0d3778, #6b010b]  
 💡 COMPOSITION FOCUS: [Use Golden Ratio for Composition Guide]  
 🔡 TYPOGRAPHY (IF ANY): [No Typography]  
