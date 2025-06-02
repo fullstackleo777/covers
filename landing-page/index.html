@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Repo Gallery</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>My GitHub Repos</h1>
+    <p>Browsing through <code>fullstackleo777_repos.csv</code>.</p>
+  </header>
+
+  <main id="cards-container" class="cards-container" aria-live="polite">
+    <!-- Cards will be injected here -->
+  </main>
+
+  <!-- Fallback if JS is disabled -->
+  <noscript>
+    <p style="text-align:center; color: #666;">
+      JS is required to load the repository cards.
+    </p>
+  </noscript>
+
+  <script src="script.js"></script>
+</body>
+</html>
