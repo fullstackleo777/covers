@@ -11,7 +11,7 @@ Attractive, mobile-first, touch-tactile, mouse functional website developed with
   ├─ index.html
   ├─ style.css
   ├─ script.js
-  └─ ../fullstackleo777_repos.csv
+  └─ ../github-repo-metadata/fullstackleo777_repos.csv
 ```
 
 ___
