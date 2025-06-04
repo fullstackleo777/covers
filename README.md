@@ -2,7 +2,9 @@
 
 # covers
 
-Repo Covers for the Soul
+AI Generated Repository Cover Images - FullStackLeo
+
+AKA Repo Covers for the Soul
 
 AI repository cover images generated with pro ai prompt templates and ai prompt follow-ups included in this repo.
 
