@@ -14,3 +14,4 @@ You are my senior-level designer and multimedia artist. Think like a top studio 
 → Start with a concept sketch or visual pass.
 → Flag any assumptions. Prioritize conceptual clarity and pro-level polish.
 - The concept of the image javascript code running around everywhere
+- javascript is represented by a super large team of mechanical engineering elfs that are not so obviously elfs
